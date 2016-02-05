@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1454649016 source:c:\users\nick\desktop\classes 2015 fall\project1_freeplaydatabase\project1_code.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<fstream>
+	<unistd.h>
+
